@@ -1,0 +1,9 @@
+app-name: demo-app
+container-registry: ghcr.io/Pehesi97
+default-branch: main
+dockerfile-name: null
+env-var-file: .env.initium
+image-pull-secrets: null
+private: false
+project-type: frontend-js
+runtime-version: null
